@@ -5,3 +5,4 @@ ESP32_Arduboy/src/.DS_Store
 release/
 ESP32_Arduboy/examples/Launcher/build/
 *.zip
+retro-go/
