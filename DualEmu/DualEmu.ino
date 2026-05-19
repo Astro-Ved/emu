@@ -283,6 +283,8 @@ void runAtari() {
 // Main Loop
 // ==========================================
 void setup() {
+    pinMode(27, OUTPUT);
+    digitalWrite(27, HIGH);
     Serial.begin(115200);
     tft.init();
     tft.setRotation(1);

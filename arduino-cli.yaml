@@ -1,6 +1,0 @@
-board_manager:
-  additional_urls: []
-directories:
-  data: /home/jules/.arduino15
-  downloads: /home/jules/.arduino15/staging
-  user: /app
